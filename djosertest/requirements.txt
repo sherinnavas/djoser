@@ -1,0 +1,9 @@
+Django==2.0
+django-rest-auth==0.9.3
+django-templated-mail==1.1.1
+djangorestframework==3.9.1
+djangorestframework-simplejwt==4.0.0
+djoser==1.4.0
+PyJWT==1.7.1
+pytz==2018.9
+six==1.12.0
